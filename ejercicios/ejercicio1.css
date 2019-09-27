@@ -1,0 +1,20 @@
+.inicio {
+    background-color: #0B0B61;
+    color: white;
+    height: 130px;
+}
+
+.titulo {
+    width: 400x;
+    height: 80px;
+    background-color: #0B0B61;
+    position: absolute;
+    left: 150px;
+    top: 50px;
+    font-size: 30px; 
+}
+
+.subs {
+    position : relative;
+    right: 100px;
+}
